@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Flightscry</string>
+    <string name="flight_info_title">Flight Information</string>
+    <string name="flight_number_label">Flight Number</string>
+    <string name="flight_number_value">SK1234</string>
+    <string name="departure_title">Departure</string>
+    <string name="departure_airport_code">LHR</string>
+    <string name="departure_time">14:30</string>
+    <string name="departure_city">London Heathrow</string>
+    <string name="arrival_title">Arrival</string>
+    <string name="arrival_airport_code">CDG</string>
+    <string name="arrival_time">16:45</string>
+    <string name="arrival_city">Paris Charles de Gaulle</string>
+</resources>

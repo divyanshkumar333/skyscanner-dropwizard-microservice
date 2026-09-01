@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme inheriting from Backpack's BpkTheme -->
+    <style name="AppTheme" parent="BpkTheme">
+        <item name="colorPrimary">@color/skyscanner_blue</item>
+        <item name="android:statusBarColor">@color/skyscanner_dark_blue</item>
+        <item name="android:windowBackground">@color/background_light</item>
+    </style>
+</resources>
