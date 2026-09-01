@@ -1,4 +1,4 @@
-# Skyscanner Ad Platform UI/UX Design & Jira Tickets (Task 2)
+# Skyscanner Ad Platform UI/UX Design & Jira Tickets (Task 4)
 
 A comprehensive redesign and user-experience specification for Skyscanner's Partner Advertising Platform. This project transforms a complex internal advertising tool into an intuitive, high-converting interface for external partners (airlines, hoteliers, car rental companies).
 
@@ -7,7 +7,7 @@ A comprehensive redesign and user-experience specification for Skyscanner's Part
 ## 📂 Deliverables Overview
 
 ```
-task_2/
+task_4/
 ├── ad-platform/                         # Interactive High-Fidelity Web Prototype
 │   ├── index.html                       # 3 Interactive views (Creation, Analytics, Survey)
 │   ├── styles.css                       # Skyscanner Design System & Components
@@ -21,7 +21,7 @@ task_2/
 
 ## 🚀 How to Run & Preview the Interactive Prototype
 
-1. Open [`task_2/ad-platform/index.html`](file:///c:/Users/acer/Downloads/skyscanner-dropwizard-microservice/skyscanner-dropwizard-microservice/task_2/ad-platform/index.html) in any modern web browser (Chrome, Edge, Firefox, Safari).
+1. Open [`task_4/ad-platform/index.html`](file:///c:/Users/acer/Downloads/skyscanner-dropwizard-microservice/skyscanner-dropwizard-microservice/task_4/ad-platform/index.html) in any modern web browser (Chrome, Edge, Firefox, Safari).
 2. **Explore the 3 Core Views**:
    - **Ad Creation**: Click between Text, Image & Text, and Video Ad cards. Type in the form fields to watch the live Skyscanner search result mockup update in real time.
    - **Performance Analytics**: Toggle date filters (7d, 30d, 90d) to see dynamic KPI metric adjustments, explore the interactive trend graphs, and filter campaigns by status.
@@ -42,5 +42,5 @@ task_2/
 
 ## 📑 Included Documentation
 
-- 📋 [**Jira Developer Tickets** (`JIRA_TICKETS.md`)](file:///c:/Users/acer/Downloads/skyscanner-dropwizard-microservice/skyscanner-dropwizard-microservice/task_2/JIRA_TICKETS.md): Full acceptance criteria and user stories for Tickets 1, 2, and 3.
-- 🎨 [**Figma Design System Specifications** (`FIGMA_DESIGN_SPECS.md`)](file:///c:/Users/acer/Downloads/skyscanner-dropwizard-microservice/skyscanner-dropwizard-microservice/task_2/FIGMA_DESIGN_SPECS.md): Color tokens, typography hierarchy, component states, and step-by-step recreation guide.
+- 📋 [**Jira Developer Tickets** (`JIRA_TICKETS.md`)](file:///c:/Users/acer/Downloads/skyscanner-dropwizard-microservice/skyscanner-dropwizard-microservice/task_4/JIRA_TICKETS.md): Full acceptance criteria and user stories for Tickets 1, 2, and 3.
+- 🎨 [**Figma Design System Specifications** (`FIGMA_DESIGN_SPECS.md`)](file:///c:/Users/acer/Downloads/skyscanner-dropwizard-microservice/skyscanner-dropwizard-microservice/task_4/FIGMA_DESIGN_SPECS.md): Color tokens, typography hierarchy, component states, and step-by-step recreation guide.
